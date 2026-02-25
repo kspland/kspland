@@ -16,3 +16,8 @@ Here are some ideas to get you started:
 -->
 
 😀
+# Changes have been made with comments added to file.
+
+<!--
+I am a Tecnology professional with years of experirence that varies from Coding, System Administration, Server Administration, Database Management and  IT Management. I have not linked my socials so far to this site.
+-->
